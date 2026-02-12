@@ -51,8 +51,4 @@ src/
 │   ├── CraftPanel.java     # 도구 제작 메뉴
 │   └── Build/UpgradePanel. # 건축 및 강화 UI
 └── Interaction/
-    ├── Interact.java       # 상호작용 처리
-    ├── Resources.java      # 자원 데이터 정의
-    └── ImageShow.java      # 리소스 로딩 및 출력
-
 
